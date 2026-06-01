@@ -1,4 +1,4 @@
-# EMSC2010-Group-Projects
+# EMSC2010-Individual-Project
 This is the GitHub repository for MJ Spencer-Stewart (U7121128) EMSC2010 Individual Project.
 
 'EMSC2010_Individual_Project_MJSS_FINAL.ipynb' = Colab NoteBook for Individual Project.
